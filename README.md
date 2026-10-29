@@ -2,8 +2,7 @@
 
 # Hi 👋, I'm Saqlain Mushtaq
 
-### BS Software Engineering Graduate | Aspiring AI/ML Engineer
-
+### Software Engineer | Aspiring AI/ML Engineer
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Intelligent+Software+Solutions;Python+%7C+Machine+Learning+%7C+Data+Science;Exploring+Deep+Learning+and+AI+Research" alt="Typing introduction" />
 
 <p>
